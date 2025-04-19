@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GithubTestingApplication {
 
 	int z=190;
+        int y=100;
+        float v=230.98;
 
 	public static void main(String[] args) {
 		SpringApplication.run(GithubTestingApplication.class, args);
