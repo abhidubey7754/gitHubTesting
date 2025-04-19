@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GithubTestingApplication {
 
 	int z=190;
+        char b='abc'
         int y=189;
 
 	public static void main(String[] args) {
